@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module flappybirb {
+	requires lwjgl;
+}
